@@ -5,6 +5,8 @@ Guidelines to communicate how people should contribute to this project. This
 
 ## Branching
 
+Test push for slack repo.
+
 ## Pull Requests
 
 ## Format For Creating An Issue
