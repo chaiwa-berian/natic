@@ -9,7 +9,7 @@ Guidelines to communicate how people should contribute to Natic. This
 
 We use GitHub Flow for the development workflow.
 
-1. A developer 'forks' an 'official' server-side repository. This creates their own server-side copy.
+1. A developer **forks** an [official](https://github.com/NaticOrg/natic) server-side repository. This creates their own server-side copy.
 2. The new server-side copy is cloned to their local system.
 3. A Git remote path for the 'official' repository is added to the local clone.
 4. A new local feature branch is created.
@@ -32,6 +32,10 @@ Contributors will create a branch, then submit a pull request that must then be
 ## Format For Creating An Issue
 
 Issues will be added into Github Issues and can be tracked in GitHub Projects.
+
+* [Bug Reports] (https://github.com/NaticOrg/natic/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+* [Feature Report] (https://github.com/NaticOrg/natic/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+* [Any other issue] (https://github.com/NaticOrg/natic/blob/main/.github/ISSUE_TEMPLATE/any-other-issue.md)
 
 ## Documentation
 
