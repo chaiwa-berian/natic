@@ -1,12 +1,40 @@
 # Contributing
 
-Guidelines to communicate how people should contribute to this project. This
+Guidelines to communicate how people should contribute to Natic. This
  defines the workflow for branching, pull requests and format for creating an issue.
+
+ When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+## Workflow
+
+We use GitHub Flow for the development workflow.
+
+1. A developer 'forks' an 'official' server-side repository. This creates their own server-side copy.
+2. The new server-side copy is cloned to their local system.
+3. A Git remote path for the 'official' repository is added to the local clone.
+4. A new local feature branch is created.
+5. The developer makes changes on the new branch.
+6. New commits are created for the changes.
+7. The branch gets pushed to the developer's own server-side copy.
+8. The developer opens a pull request from the new branch to the 'official' repository.
+9. The pull request gets approved for merge and is merged into the original server-side repository
 
 ## Branching
 
-Test push for slack repo.
+Contributors will create a branch, then submit a pull request that must then be
+ approved by 2 reviewers for it to be merged into master.
 
 ## Pull Requests
 
+1. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+2. Two approving reviews are required when attempting to merge into master.
+
 ## Format For Creating An Issue
+
+Issues will be added into Github Issues and can be tracked in GitHub Projects.
+
+## Documentation
+
+Documentation for developers may be found on NaticOrg/natic/Wiki.
+
+Additional documents exist in Confluence.
