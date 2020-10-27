@@ -1,10 +1,10 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+title: ""
+labels: ""
+assignees: natic-mantainers
+projects: NaticOrg/natic/1
 ---
 
 **Is your feature request related to a problem? Please describe.**
