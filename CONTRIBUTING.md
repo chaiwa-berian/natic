@@ -42,3 +42,22 @@ Issues will be added into Github Issues and can be tracked in GitHub Projects.
 Documentation for developers may be found on the [project's wiki](https://github.com/NaticOrg/natic/).
 
 Additional documents exist in [Confluence](https://natic.atlassian.net/wiki).
+
+## Tech Stack
+
+### Web Technologies
+- JS, HTML, CSS
+### Front End Framework
+- React using React-Bootstrap
+### Back End
+- Python, Django
+### Package Manager
+- yarn
+### Container
+- Docker
+### Version Control
+- GitHub, Git
+### Project Management 
+- Confluence
+### Testing Framework 
+- tbd.
