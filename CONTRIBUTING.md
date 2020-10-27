@@ -45,11 +45,19 @@ Additional documents exist in [Confluence](https://natic.atlassian.net/wiki).
 
 ## Tech Stack
 
-* Web Technologies - JS, HTML, CSS
-* Front End Framework - React using React-Bootstrap
-* Back End - Python, Django
-* Package Manager - yarn
-* Container - Docker
-* Version Control - GitHub, Git
-* Project Management - Confluence
-* Testing Framework - tbd. 
+### Web Technologies
+- JS, HTML, CSS
+### Front End Framework
+- React using React-Bootstrap
+### Back End
+- Python, Django
+### Package Manager
+- yarn
+### Container
+- Docker
+### Version Control
+- GitHub, Git
+### Project Management 
+- Confluence
+### Testing Framework 
+- tbd.
